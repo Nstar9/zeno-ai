@@ -9,7 +9,7 @@
 **Zeno** is an AI-powered expense management platform that helps small businesses, freelancers, and contractors automate receipt processing, track spending, and generate accountant-ready reports—all in under 5 minutes of setup.
 
 **Live Product**: [getzeno.io](https://getzeno.io)  
-**Built by**: [Niraj Patil](https://niraj-patil-portfolio.vercel.app) | Product Manager & Technical Lead
+**Built by**: [Niraj Patil](https://niraj-patil-portfolio.vercel.app) | Founder & Technical Lead
 
 ---
 
